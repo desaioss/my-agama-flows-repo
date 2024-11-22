@@ -1,1 +1,18 @@
-{}
+{
+    "custom-pw": {
+        "projectName": "custom-pw",
+        "description": "Custom Password flow",
+        "type": "community",
+        "author": "desaioss",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/desaioss/my-agama-flows-repo",
+        "githubUri": "https://github.com/desaioss/my-agama-flows-repo",
+        "license": "apache-2.0",
+        "lastUpdated": "1732274733065",
+        "tags": [
+            "password"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
