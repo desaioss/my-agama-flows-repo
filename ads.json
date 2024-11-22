@@ -13,7 +13,9 @@
             "password"
         ],
         "noDirectLaunch": [],
-        "configs": {},
+        "configs": {
+            "org.test.custom.pw": {}
+        },
         "name": "custom-pw"
     }
 }
