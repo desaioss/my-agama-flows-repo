@@ -13,9 +13,7 @@
             "password"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "custom-pw-flow": {}
-        },
+        "configs": {},
         "name": "custom-pw"
     }
 }
